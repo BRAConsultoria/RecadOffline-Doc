@@ -11,4 +11,7 @@ Welcome to the RecadOffline-Doc!
 
 
 ***
-Projeto: [Vinícius Pozzebon](https://github.com/vpozzebon), em 19/10/2017
+Créditos:
+
+- Projeto: [Vinícius Pozzebon](https://github.com/vpozzebon), em 19/10/2017
+- Desenvolvimento: [Guilherme Tavares](#), em 10/2017
